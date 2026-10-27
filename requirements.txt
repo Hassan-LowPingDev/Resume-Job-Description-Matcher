@@ -1,0 +1,24 @@
+# User interface
+streamlit
+pandas
+
+# LLM orchestration
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+
+# Environment configuration
+python-dotenv
+
+# Data validation and structured outputs
+pydantic
+
+# Document ingestion
+pypdf
+pymupdf
+docx2txt
+
+# Optional: local document retrieval
+langchain-text-splitters
+langchain-chroma
